@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.exe
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.deps.json
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.runtimeconfig.json
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.runtimeconfig.dev.json
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.dll
+C:\Users\user\source\repos\Postfix\Postfix\bin\Debug\netcoreapp3.1\Postfix.pdb
+C:\Users\user\source\repos\Postfix\Postfix\obj\Debug\netcoreapp3.1\Postfix.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Postfix\Postfix\obj\Debug\netcoreapp3.1\Postfix.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Postfix\Postfix\obj\Debug\netcoreapp3.1\Postfix.AssemblyInfo.cs
+C:\Users\user\source\repos\Postfix\Postfix\obj\Debug\netcoreapp3.1\Postfix.dll
+C:\Users\user\source\repos\Postfix\Postfix\obj\Debug\netcoreapp3.1\Postfix.pdb
